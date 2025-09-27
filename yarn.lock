@@ -2317,6 +2317,14 @@
   dependencies:
     "@react-types/shared" "^3.16.0"
 
+"@react-types/menu@^3.10.4":
+  version "3.10.4"
+  resolved "https://registry.yarnpkg.com/@react-types/menu/-/menu-3.10.4.tgz#57c0259b149f80fde9230cc1a494d6ac581d09b4"
+  integrity sha512-jCFVShLq3eASiuznenjoKBv3j0Jy2KQilAjBxdEp56WkZ5D338y/oY5zR6d25u9M0QslpI0DgwC8BwU7MCsPnw==
+  dependencies:
+    "@react-types/overlays" "^3.9.1"
+    "@react-types/shared" "^3.32.0"
+
 "@react-types/menu@^3.3.0", "@react-types/menu@^3.7.2":
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/@react-types/menu/-/menu-3.7.2.tgz#04a0447f791a7ffa0a6c8dc160cbff3bbeeedefd"
@@ -2339,10 +2347,22 @@
   dependencies:
     "@react-types/shared" "^3.15.0"
 
+"@react-types/overlays@^3.9.1":
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/@react-types/overlays/-/overlays-3.9.1.tgz#b6e750d6e4bcf3aaf38fa8a5f69a817f37840934"
+  integrity sha512-UCG3TOu8FLk4j0Pr1nlhv0opcwMoqbGEOUvsSr6ITN6Qs2y0j+KYSYQ7a4+04m3dN//8+9Wjkkid8k+V1dV2CA==
+  dependencies:
+    "@react-types/shared" "^3.32.0"
+
 "@react-types/shared@^3.10.0", "@react-types/shared@^3.15.0", "@react-types/shared@^3.16.0", "@react-types/shared@^3.8.0", "@react-types/shared@^3.9.0":
   version "3.16.0"
   resolved "https://registry.yarnpkg.com/@react-types/shared/-/shared-3.16.0.tgz#cab7bf0376969d1773480ecb2d6da5aa91391db5"
   integrity sha512-IQgU4oAEvMwylEvaTsr2XB1G/mAoMe1JFYLD6G78v++oAR9l8o9MQxZ0YSeANDkqTamb2gKezGoT1RxvSKjVxw==
+
+"@react-types/shared@^3.32.0":
+  version "3.32.0"
+  resolved "https://registry.yarnpkg.com/@react-types/shared/-/shared-3.32.0.tgz#6c105ef05e1bd84ab04531e707074dc2a0b3ce07"
+  integrity sha512-t+cligIJsZYFMSPFMvsJMjzlzde06tZMOIOFa1OV5Z0BcMowrb2g4mB57j/9nP28iJIRYn10xCniQts+qadrqQ==
 
 "@react-types/tabs@^3.1.5":
   version "3.1.5"
