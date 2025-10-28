@@ -102,3 +102,4 @@ phabricator>=0.7.0
 # sentry.utils.pytest and sentry.testutils are moved to tests/
 selenium>=4.1.5
 sqlparse>=0.2.4,<=0.3.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
