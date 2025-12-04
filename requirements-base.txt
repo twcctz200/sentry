@@ -10,7 +10,7 @@ croniter>=0.3.37
 datadog>=0.29.3
 django-crispy-forms>=1.14.0
 django-pg-zero-downtime-migrations>=0.11
-Django>=2.2.28
+Django>=4.2.27
 djangorestframework>=3.12.4
 drf-spectacular>=0.22.1
 email-reply-parser>=0.5.12
@@ -101,4 +101,4 @@ phabricator>=0.7.0
 # test dependencies, but unable to move to requirements-test until
 # sentry.utils.pytest and sentry.testutils are moved to tests/
 selenium>=4.1.5
-sqlparse>=0.2.4,<=0.3.0
+sqlparse>=0.5.4
