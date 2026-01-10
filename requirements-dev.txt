@@ -40,3 +40,5 @@ types-pyyaml
 types-redis
 types-requests
 types-simplejson>=3.17.7.2
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
